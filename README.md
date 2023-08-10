@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pranjal pathak" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" alt="pranjal-pathak-058768231" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pranjal-pathak-05876823" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" alt="pranjal pathak1" height="30" width="40" /></a>
 <a href="https://instagram.com/pranj_al_pathak01" target="blank"><img align="center" src="https://images.unsplash.com/photo-1634942537034-2531766767d1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aW5zdGFncmFtJTIwaWNvbnxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80" alt="pranj_al_pathak01" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/conpepper" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/zaldniLc2XTBhNlCDR4hcD5bcRYHZ56_lO0yA2Qu-cADShy1_HDWrICSvv0EPTX79WY" alt="conpepper" height="30" width="40" /></a>
 </p>
