@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **C++, Python, Data Structure and Algorithms, HTML, CSS, JavaScript, Flask, Panda, MongoDB, Beautiful Soap, Full Stack Web Development**
 
-- 📫 How to reach me **propp2211@gmail.com**
+- 📫 How to reach me **pranjal_p@ee.iitr.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
