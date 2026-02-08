@@ -1,14 +1,14 @@
 <!-- HERO -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="420"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="440"/>
 
 # Hi, I'm Pranjal Pathak 👋  
 ### Software Engineer • Full-Stack Developer • Problem Solver
 
 <p>
-I love building scalable web apps, solving complex problems,  
-and constantly leveling up as a developer.
+I build scalable systems, craft clean UIs,  
+and enjoy solving hard problems with elegant code.
 </p>
 
 </div>
@@ -17,10 +17,10 @@ and constantly leveling up as a developer.
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="coding animation" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif4.gif"/>
+<img align="right" alt="coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif4.gif"/>
 
 - 🎯 **Currently focused on:** Competitive Programming & Full-Stack Development  
-- 🌱 **Learning:** React Native, Java, Flutter, Django, Android, Machine Learning  
+- 🌱 **Learning:** React Native, Java, Django, Android, Machine Learning  
 - 💼 **Strong in:** Web Development, Backend Systems, DSA  
 - 💬 **Ask me about:** C++, Python, Web Tech, Databases, Cloud  
 - 📫 **Email:** pranjal_p@ee.iitr.ac.in  
@@ -53,9 +53,9 @@ and constantly leveling up as a developer.
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -63,12 +63,13 @@ and constantly leveling up as a developer.
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Cloud & Tools
+### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
@@ -89,6 +90,6 @@ and constantly leveling up as a developer.
 
 ### ⚡ Always Learning. Always Building.
 
-> *“The only way to do great work is to love what you do.”* — Steve Jobs
+> *“First, solve the problem. Then, write the code.”* — John Johnson
 
 </div>
